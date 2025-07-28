@@ -1,0 +1,17 @@
+{
+  "name": "RONALD",
+  "symbol": "RONALD",
+  "description": "The forbidden mascot has returned to rule the fast food underworld. Powered by chaos.",
+  "image": "https://raw.githubusercontent.com/alanborher/ronald-token/main/ronald.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/alanborher/ronald-token/main/ronald.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FrPwwvNwSgXxZvmZ5kea2jtCwJ9u4fWhdYALjehTpump",
+        "share": 100
